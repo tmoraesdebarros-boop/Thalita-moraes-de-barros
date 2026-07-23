@@ -1,8 +1,8 @@
-# Olá, eu sou a Thalita Moraes 👋
+# Olá, eu sou a Thalita Moraes 
 
 <div align="center">
 
-### Quality Assurance | Analista de Testes | Automação de Testes 🚀
+### Quality Assurance | Analista de Testes | Automação de Testes 
 
 </div>
 
