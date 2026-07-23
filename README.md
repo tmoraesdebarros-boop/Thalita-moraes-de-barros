@@ -1,0 +1,107 @@
+# Olá, eu sou a Thalita Moraes 👋
+
+<div align="center">
+
+### Quality Assurance | Analista de Testes | Automação de Testes 🚀
+
+</div>
+
+Sou profissional formada em Tecnologia, com foco em **Qualidade de Software (QA)**, buscando garantir a entrega de sistemas mais seguros, eficientes e com melhor experiência para os usuários.
+
+Tenho experiência prática com criação de cenários de testes, testes manuais, testes de API, documentação de bugs e automação de testes. Estou sempre buscando evoluir tecnicamente e aplicar boas práticas de qualidade dentro do ciclo de desenvolvimento de software.
+
+---
+
+## 👩‍💻 Sobre mim
+
+- 🎓 Formação em Tecnologia
+- 🧪 Foco em Quality Assurance e Engenharia de Qualidade
+- 🔎 Experiência com testes funcionais e testes de API
+- 🚀 Interesse em automação de testes e melhoria contínua
+- 📚 Aprendizado constante sobre desenvolvimento e qualidade de software
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</div>
+
+---
+
+## 🧪 Conhecimentos em QA
+
+✔ Planejamento de testes  
+✔ Casos de teste e cenários BDD  
+✔ Testes funcionais  
+✔ Testes exploratórios  
+✔ Testes de API REST  
+✔ Validação de respostas HTTP  
+✔ Testes positivos e negativos  
+✔ Análise de requisitos  
+✔ Reporte e documentação de bugs  
+✔ Automação de testes
+
+---
+
+## 📌 Projetos
+
+### 🔹 API Testing com Postman
+
+Coleção de testes automatizados utilizando APIs públicas.
+
+Incluindo:
+
+- Criação de requisições GET, POST, PUT e DELETE
+- Validação de status code
+- Testes de respostas JSON
+- Uso de variáveis de ambiente e coleção
+- Scripts JavaScript para automação
+
+---
+
+### 🔹 Bug Reports
+
+Documentação de problemas encontrados durante testes:
+
+- Descrição do problema
+- Passos para reprodução
+- Resultado esperado
+- Resultado encontrado
+- Evidências
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌱 Atualmente estudando
+
+- Automação de testes
+- Boas práticas de QA
+- Integração contínua (CI/CD)
+- Desenvolvimento de software
+
+---
+
+
+
+---
+
+⭐ Obrigada por visitar meu perfil!
